@@ -25,4 +25,4 @@ The site utilizes a **CSS Flexbox** layout with media queries to ensure a seamle
 - `README.md`: Documentation and project overview.
 
 ## Built By
-- **DeJon Leonard** (Lead Developer)
+- **DeJon Leonard** (Lead Developer) 
